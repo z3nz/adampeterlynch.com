@@ -1,0 +1,9 @@
+{
+  "name": "adampeterlynch.com",
+  "private": true,
+  "description": "Personal site of Adam Peter Lynch",
+  "scripts": {
+    "dev": "npx wrangler@4.83.0 pages dev",
+    "deploy": "npx wrangler@4.83.0 pages deploy --branch=main"
+  }
+}
